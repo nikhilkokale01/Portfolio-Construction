@@ -1,0 +1,5 @@
+selected_attributes = [
+    'symbol', 'totalEsg', 'highestControversy', 'beta', 'priceToBook',
+    'priceToSalesTrailing12Months', 'trailingPE', 'profitMargins',
+    '52WeekChange', 'revenueQuarterlyGrowth', 'averageVolume'
+]
